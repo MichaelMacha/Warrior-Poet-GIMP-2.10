@@ -1,5 +1,5 @@
 #!/bin/bash
-PLUGIN_DIR=/home/michael/.config/GIMP/2.10/plug-ins
+PLUGIN_DIR=$HOME/.config/GIMP/2.10/plug-ins
 
 echo "$PLUGIN_DIR"
 
